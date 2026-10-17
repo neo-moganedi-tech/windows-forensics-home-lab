@@ -1,0 +1,17 @@
+# Raw forensic evidence and potentially sensitive exports
+evidence/
+Evidence/
+*.evtx
+
+# Temporary and local lab data
+*.tmp
+*.bak
+*.log
+
+# Operating system files
+Thumbs.db
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
